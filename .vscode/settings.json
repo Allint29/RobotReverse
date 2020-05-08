@@ -1,0 +1,30 @@
+{
+    "Lua.diagnostics.globals": [
+        "getScriptPath",
+        "getSecurityInfo",
+        "DestroyTable",
+        "sleep",
+        "getParamEx",
+        "getInfoParam",
+        "self",
+        "private",
+        "message",
+        "_list_order",
+        "bit",
+        "sendTransaction",
+        "getOrderByNumber",
+        "_mes",
+        "generate",
+        "state_",
+        "getNumCandles",
+        "getCandlesByIndex"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-global",
+        "lowercase-global",
+        113,
+        113,
+        113,
+        113
+    ]
+}

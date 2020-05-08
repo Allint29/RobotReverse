@@ -1,0 +1,74 @@
+{
+    "short_1": 
+        {
+        "hight_line_to_take_position": "0",
+        "side": "short",
+        "auto_trade": "false",
+        "low_line_to_take_position": "0",
+        "stop_loss": "0",
+        "name": "short_1",
+        "enter_price": "0",
+        "row": "15",
+        "take_profit": "0"
+        },
+    "long_1": 
+        {
+        "hight_line_to_take_position": "0",
+        "side": "long",
+        "auto_trade": "false",
+        "low_line_to_take_position": "0",
+        "stop_loss": "74509",
+        "name": "long_1",
+        "enter_price": "74559",
+        "row": "9",
+        "take_profit": "74909"
+        },
+    "long_2": 
+        {
+        "hight_line_to_take_position": "0",
+        "side": "long",
+        "auto_trade": "false",
+        "low_line_to_take_position": "0",
+        "stop_loss": "0",
+        "name": "long_2",
+        "enter_price": "0",
+        "row": "11",
+        "take_profit": "0"
+        },
+    "long_3": 
+        {
+        "hight_line_to_take_position": "0",
+        "side": "long",
+        "auto_trade": "false",
+        "low_line_to_take_position": "0",
+        "stop_loss": "0",
+        "name": "long_3",
+        "enter_price": "0",
+        "row": "13",
+        "take_profit": "0"
+        },
+    "short_2": 
+        {
+        "hight_line_to_take_position": "0",
+        "side": "short",
+        "auto_trade": "false",
+        "low_line_to_take_position": "0",
+        "stop_loss": "0",
+        "name": "short_2",
+        "enter_price": "0",
+        "row": "17",
+        "take_profit": "0"
+        },
+    "short_3": 
+        {
+        "hight_line_to_take_position": "0",
+        "side": "short",
+        "auto_trade": "false",
+        "low_line_to_take_position": "0",
+        "stop_loss": "0",
+        "name": "short_3",
+        "enter_price": "0",
+        "row": "19",
+        "take_profit": "0"
+        }
+}

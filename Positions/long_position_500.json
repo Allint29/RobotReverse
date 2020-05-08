@@ -1,0 +1,10 @@
+{
+    "side": "long",
+    "stop_loss": "0",
+    "name": "long_position_500",
+    "enter_price": "0",
+    "hight_line_to_take_position": "0",
+    "take_profit": "0",
+    "auto_trade": "false",
+    "low_line_to_take_position": "0"
+}

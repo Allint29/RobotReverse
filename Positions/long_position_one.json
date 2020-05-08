@@ -1,0 +1,35 @@
+{
+    "position_long_2": 
+        {
+        "side": "long",
+        "stop_loss": "0",
+        "name": "long_position_145",
+        "enter_price": "0",
+        "hight_line_to_take_position": "0",
+        "take_profit": "0",
+        "auto_trade": "false",
+        "low_line_to_take_position": "0"
+        },
+    "position_long_1": 
+        {
+        "side": "long",
+        "stop_loss": "0",
+        "name": "long_position_one",
+        "enter_price": "0",
+        "hight_line_to_take_position": "0",
+        "take_profit": "0",
+        "auto_trade": "false",
+        "low_line_to_take_position": "0"
+        },
+    "position_long_3": 
+        {
+        "side": "long",
+        "stop_loss": "0",
+        "name": "long_position_500",
+        "enter_price": "0",
+        "hight_line_to_take_position": "0",
+        "take_profit": "0",
+        "auto_trade": "false",
+        "low_line_to_take_position": "0"
+        }
+}

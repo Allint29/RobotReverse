@@ -1,0 +1,20 @@
+{
+    "adress": 
+        {
+        "Africa": "Tik-Tock",
+        "Russia": 
+            {
+            "city": "Saratov",
+            "town": "Forse"
+            },
+        "Germany": "Berlin"
+        },
+    "lang": 
+        {
+        "1": "english",
+        "3": "bolgarian",
+        "2": "russian"
+        },
+    "age": "25",
+    "name": "Ivan"
+}

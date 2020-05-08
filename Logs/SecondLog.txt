@@ -1,0 +1,1424 @@
+13.04.2020  0:00:28: ___ Writer activated;
+13.04.2020  0:01:54: ___ Robot stoped!;
+13.04.2020  0:01:56: ___ Writer activated;
+13.04.2020  0:06:07: ___ Robot stoped!;
+13.04.2020  0:06:23: ___ Writer activated;
+13.04.2020  : ___ Robot stoped!;
+13.04.2020  : ___ Writer activated;
+13.04.2020  : ___ Robot stoped!;
+13.04.2020  : ___ Writer activated;
+13.04.2020  : ___ Robot stoped!;
+24.04.2020  8:47:43: ___ Writer activated;
+24.04.2020  8:47:51: ___ Robot stoped!;
+24.04.2020  8:51:40: ___ Writer activated;
+24.04.2020  8:53:35: ___ Robot stoped!;
+24.04.2020  9:10:10: ___ Writer activated;
+24.04.2020  9:10:19: ___ Robot stoped!;
+24.04.2020  9:10:27: ___ Writer activated;
+24.04.2020  9:11:36: ___ Robot stoped!;
+24.04.2020  9:11:37: ___ Writer activated;
+24.04.2020  9:11:49: ___ Robot stoped!;
+24.04.2020  9:12:07: ___ Writer activated;
+24.04.2020  9:12:13: ___ Robot stoped!;
+28.04.2020  9:58:54: ___ Writer activated;
+28.04.2020  9:58:59: ___ Robot stoped!;
+28.04.2020  12:27:10: ___ Writer activated;
+28.04.2020  12:30:24: ___ Writer activated;
+28.04.2020  12:35:16: ___ Writer activated;
+28.04.2020  12:35:26: ___ Robot stoped!;
+28.04.2020  12:35:54: ___ Writer activated;
+28.04.2020  12:36:18: ___ Robot stoped!;
+28.04.2020  12:36:50: ___ Writer activated;
+28.04.2020  12:37:21: ___ Robot stoped!;
+28.04.2020  12:38:58: ___ Writer activated;
+28.04.2020  12:48:15: ___ Robot stoped!;
+28.04.2020  12:48:17: ___ Writer activated;
+28.04.2020  12:48:29: ___ Robot stoped!;
+28.04.2020  12:50:09: ___ Writer activated;
+28.04.2020  12:52:38: ___ Writer activated;
+28.04.2020  12:53:08: ___ Robot stoped!;
+28.04.2020  12:57:15: ___ Writer activated;
+28.04.2020  13:00:52: ___ Robot stoped!;
+28.04.2020  13:00:55: ___ Writer activated;
+28.04.2020  13:02:52: ___ Robot stoped!;
+28.04.2020  13:02:54: ___ Writer activated;
+28.04.2020  13:05:10: ___ Robot stoped!;
+28.04.2020  13:05:11: ___ Writer activated;
+28.04.2020  13:05:41: ___ Robot stoped!;
+28.04.2020  13:07:03: ___ Writer activated;
+28.04.2020  13:07:13: ___ Robot stoped!;
+28.04.2020  13:13:24: ___ Writer activated;
+28.04.2020  13:15:06: ___ Writer activated;
+28.04.2020  13:16:47: ___ Writer activated;
+28.04.2020  13:34:24: ___ Writer activated;
+28.04.2020  13:35:52: ___ Writer activated;
+28.04.2020  13:49:33: ___ Writer activated;
+28.04.2020  13:51:05: ___ Robot stoped!;
+28.04.2020  13:51:09: ___ Writer activated;
+28.04.2020  14:58:55: ___ Robot stoped!;
+28.04.2020  14:58:57: ___ Writer activated;
+28.04.2020  14:59:26: ___ Writer activated;
+28.04.2020  15:08:45: ___ Writer activated;
+28.04.2020  15:08:56: ___ Robot stoped!;
+28.04.2020  15:09:04: ___ Writer activated;
+28.04.2020  15:11:49: ___ Robot stoped!;
+28.04.2020  15:11:51: ___ Writer activated;
+28.04.2020  15:13:26: ___ Robot stoped!;
+28.04.2020  15:13:28: ___ Writer activated;
+28.04.2020  16:24:38: ___ Robot stoped!;
+28.04.2020  16:24:42: ___ Writer activated;
+28.04.2020  16:24:48: ___ Robot stoped!;
+28.04.2020  17:52:15: ___ Writer activated;
+28.04.2020  17:57:10: ___ Robot stoped!;
+28.04.2020  17:58:06: ___ Writer activated;
+28.04.2020  17:58:13: ___ Long_ONE by MANUALY position not in active dictionary. Set it. Set new last_min;
+28.04.2020  17:58:13: ___ Create Long ONE by MANUALY position N: 1100129
+;
+28.04.2020  17:58:13: ___ Long ONE by MANUALY Enter price = 74869; Stop = 74756; ; Take = 74929;
+28.04.2020  17:58:59: ___ Robot stoped!;
+28.04.2020  18:18:50: ___ Writer activated;
+28.04.2020  18:18:57: ___ Long_ONE by MANUALY position not in active dictionary. Set it. Set new last_min;
+28.04.2020  18:18:57: ___ Create Long ONE by MANUALY position N: 1100129
+;
+28.04.2020  18:18:57: ___ Long ONE by MANUALY Enter price = 74961; Stop = 74801; ; Take = 75021;
+28.04.2020  18:19:08: ___ Delete position from active dictionary position: long_position_one;
+28.04.2020  18:24:56: ___ Robot stoped!;
+28.04.2020  19:09:11: ___ Writer activated;
+28.04.2020  19:18:25: ___ Robot stoped!;
+28.04.2020  19:25:49: ___ Writer activated;
+28.04.2020  19:26:01: ___ Robot stoped!;
+28.04.2020  19:26:03: ___ Writer activated;
+28.04.2020  19:26:21: ___ Robot stoped!;
+28.04.2020  19:26:23: ___ Writer activated;
+28.04.2020  19:26:32: ___ Robot stoped!;
+28.04.2020  19:26:33: ___ Writer activated;
+28.04.2020  19:26:40: ___ Robot stoped!;
+28.04.2020  19:26:42: ___ Writer activated;
+28.04.2020  19:26:58: ___ Robot stoped!;
+28.04.2020  19:27:01: ___ Writer activated;
+28.04.2020  19:27:11: ___ Robot stoped!;
+28.04.2020  19:28:22: ___ Writer activated;
+28.04.2020  19:28:40: ___ Robot stoped!;
+28.04.2020  19:29:23: ___ Writer activated;
+28.04.2020  19:30:26: ___ Robot stoped!;
+28.04.2020  19:31:45: ___ Writer activated;
+28.04.2020  19:32:12: ___ Long_ONE by MANUALY position not in active dictionary. Set it. Set new last_min;
+28.04.2020  19:32:12: ___ Create Long ONE by MANUALY position N: 1100129
+;
+28.04.2020  19:32:12: ___ Long ONE by MANUALY Enter price = 74840; Stop = 74797; ; Take = 74900;
+28.04.2020  19:32:27: ___ Delete position from active dictionary position: long_position_one;
+28.04.2020  19:34:11: ___ Robot stoped!;
+28.04.2020  19:34:12: ___ Writer activated;
+28.04.2020  19:36:27: ___ Robot stoped!;
+28.04.2020  19:36:30: ___ Writer activated;
+28.04.2020  19:38:11: ___ Robot stoped!;
+28.04.2020  19:38:14: ___ Writer activated;
+28.04.2020  19:41:26: ___ Robot stoped!;
+28.04.2020  19:41:28: ___ Writer activated;
+28.04.2020  19:44:20: ___ Robot stoped!;
+28.04.2020  19:44:22: ___ Writer activated;
+28.04.2020  19:45:06: ___ Robot stoped!;
+28.04.2020  19:45:08: ___ Writer activated;
+28.04.2020  19:46:41: ___ Robot stoped!;
+28.04.2020  0:00:33: ___ Writer activated;
+28.04.2020  0:00:43: ___ Robot stoped!;
+29.04.2020  11:01:15: ___ Writer activated;
+29.04.2020  13:07:49: ___ Robot stoped!;
+29.04.2020  13:48:32: ___ Writer activated;
+29.04.2020  13:50:13: ___ Writer activated;
+29.04.2020  14:00:09: ___ Robot stoped!;
+29.04.2020  15:48:22: ___ Writer activated;
+29.04.2020  16:15:53: ___ Robot stoped!;
+29.04.2020  16:15:56: ___ Writer activated;
+29.04.2020  16:18:24: ___ Writer activated;
+29.04.2020  16:21:04: ___ Robot stoped!;
+29.04.2020  16:21:07: ___ Writer activated;
+29.04.2020  : ___ Robot stoped!;
+29.04.2020  19:11:27: ___ Writer activated;
+29.04.2020  19:14:33: ___ Robot stoped!;
+29.04.2020  19:14:36: ___ Writer activated;
+29.04.2020  19:43:09: ___ Robot stoped!;
+29.04.2020  19:43:12: ___ Writer activated;
+29.04.2020  19:43:48: ___ Writer activated;
+29.04.2020  19:44:50: ___ Robot stoped!;
+29.04.2020  19:48:26: ___ Writer activated;
+29.04.2020  19:54:47: ___ Robot stoped!;
+29.04.2020  19:54:50: ___ Writer activated;
+29.04.2020  19:55:53: ___ Robot stoped!;
+29.04.2020  19:55:55: ___ Writer activated;
+29.04.2020  20:11:28: ___ Robot stoped!;
+29.04.2020  20:11:38: ___ Writer activated;
+29.04.2020  20:13:35: ___ Writer activated;
+29.04.2020  20:14:49: ___ Writer activated;
+29.04.2020  20:19:28: ___ Writer activated;
+29.04.2020  20:20:56: ___ Writer activated;
+29.04.2020  20:21:13: ___ Writer activated;
+29.04.2020  20:21:14: ___ Robot stoped!;
+29.04.2020  20:22:38: ___ Writer activated;
+29.04.2020  20:29:19: ___ Writer activated;
+29.04.2020  20:31:54: ___ Writer activated;
+29.04.2020  20:34:59: ___ Robot stoped!;
+29.04.2020  20:35:02: ___ Writer activated;
+29.04.2020  20:35:50: ___ Robot stoped!;
+29.04.2020  20:37:55: ___ Writer activated;
+29.04.2020  20:38:55: ___ Robot stoped!;
+29.04.2020  20:38:57: ___ Writer activated;
+29.04.2020  20:39:53: ___ Robot stoped!;
+29.04.2020  20:39:55: ___ Writer activated;
+29.04.2020  20:40:24: ___ Robot stoped!;
+29.04.2020  20:49:42: ___ Writer activated;
+29.04.2020  20:58:32: ___ Robot stoped!;
+29.04.2020  20:58:34: ___ Writer activated;
+30.04.2020  19:28:46: ___ Robot stoped!;
+30.04.2020  19:31:42: ___ Writer activated;
+30.04.2020  19:32:30: ___ Robot stoped!;
+30.04.2020  19:37:35: ___ Writer activated;
+30.04.2020  19:41:44: ___ Robot stoped!;
+30.04.2020  19:41:46: ___ Writer activated;
+30.04.2020  19:42:12: ___ Robot stoped!;
+30.04.2020  21:49:32: ___ Writer activated;
+30.04.2020  21:52:30: ___ Robot stoped!;
+30.04.2020  21:52:37: ___ Writer activated;
+30.04.2020  21:56:03: ___ Robot stoped!;
+30.04.2020  21:56:05: ___ Writer activated;
+30.04.2020  22:00:28: ___ Robot stoped!;
+30.04.2020  22:00:30: ___ Writer activated;
+30.04.2020  22:02:13: ___ Robot stoped!;
+30.04.2020  22:02:46: ___ Writer activated;
+30.04.2020  22:03:04: ___ Robot stoped!;
+30.04.2020  22:06:58: ___ Writer activated;
+30.04.2020  22:09:38: ___ Robot stoped!;
+30.04.2020  22:09:39: ___ Writer activated;
+30.04.2020  22:11:11: ___ Robot stoped!;
+30.04.2020  22:11:14: ___ Writer activated;
+30.04.2020  22:13:12: ___ Robot stoped!;
+30.04.2020  22:13:13: ___ Writer activated;
+30.04.2020  22:13:51: ___ Robot stoped!;
+30.04.2020  22:14:10: ___ Writer activated;
+30.04.2020  22:14:39: ___ Robot stoped!;
+30.04.2020  22:16:56: ___ Writer activated;
+30.04.2020  22:20:18: ___ Robot stoped!;
+30.04.2020  22:20:31: ___ Writer activated;
+30.04.2020  23:35:03: ___ Robot stoped!;
+30.04.2020  8:45:55: ___ Writer activated;
+30.04.2020  8:46:08: ___ Robot stoped!;
+30.04.2020  8:46:10: ___ Writer activated;
+30.04.2020  8:46:48: ___ Robot stoped!;
+30.04.2020  8:46:59: ___ Writer activated;
+30.04.2020  8:51:55: ___ Robot stoped!;
+30.04.2020  8:51:57: ___ Writer activated;
+30.04.2020  12:47:08: ___ Robot stoped!;
+04.05.2020  12:40:11: ___ Writer activated;
+04.05.2020  12:45:25: ___ Robot stoped!;
+04.05.2020  12:45:27: ___ Writer activated;
+04.05.2020  13:11:33: ___ Robot stoped!;
+04.05.2020  13:11:34: ___ Writer activated;
+04.05.2020  13:11:56: ___ Robot stoped!;
+04.05.2020  13:15:11: ___ Writer activated;
+04.05.2020  15:31:51: ___ Robot stoped!;
+04.05.2020  15:31:55: ___ Writer activated;
+04.05.2020  15:32:05: ___ Robot stoped!;
+04.05.2020  16:38:41: ___ Writer activated;
+04.05.2020  16:39:05: ___ Robot stoped!;
+04.05.2020  16:50:15: ___ Writer activated;
+04.05.2020  16:51:55: ___ Robot stoped!;
+04.05.2020  16:51:57: ___ Writer activated;
+04.05.2020  16:52:23: ___ Robot stoped!;
+04.05.2020  17:07:47: ___ Writer activated;
+04.05.2020  17:07:56: ___ Short position not in active dictionary. Set it. Set new last_max
+;
+04.05.2020  17:07:56: ___ Create Short position N: 1100129;
+04.05.2020  17:07:56: ___ Short Enter price = 75586; Stop = 75797; ; Take = 75526;
+;
+04.05.2020  17:08:12: ___ Delete position from active dictionary position: short_position_one;
+04.05.2020  17:09:27: ___ Robot stoped!;
+04.05.2020  17:10:46: ___ Writer activated;
+04.05.2020  17:11:18: ___ Robot stoped!;
+04.05.2020  17:20:16: ___ Writer activated;
+04.05.2020  17:20:32: ___ Robot stoped!;
+04.05.2020  17:28:06: ___ Writer activated;
+04.05.2020  17:28:21: ___ Robot stoped!;
+04.05.2020  17:28:54: ___ Writer activated;
+04.05.2020  17:29:03: ___ Robot stoped!;
+04.05.2020  17:29:38: ___ Writer activated;
+04.05.2020  17:34:49: ___ Robot stoped!;
+04.05.2020  17:34:50: ___ Writer activated;
+04.05.2020  17:35:36: ___ Writer activated;
+04.05.2020  17:39:43: ___ Robot stoped!;
+04.05.2020  17:39:45: ___ Writer activated;
+04.05.2020  17:44:09: ___ Robot stoped!;
+04.05.2020  17:44:11: ___ Writer activated;
+04.05.2020  17:44:30: ___ Robot stoped!;
+04.05.2020  17:46:58: ___ Writer activated;
+04.05.2020  23:04:18: ___ Robot stoped!;
+04.05.2020  23:04:20: ___ Writer activated;
+04.05.2020  23:04:42: ___ long_position_one by MANUALY position not in active dictionary. Set it.;
+04.05.2020  23:04:42: ___ Create long_position_oneby MANUALY position N: 1100129
+;
+04.05.2020  23:04:42: ___ long_position_one by MANUALY Enter price = 75312; Stop = 75292; ; Take = 75372;
+04.05.2020  23:04:54: ___ Delete position from active dictionary position: long_position_one;
+04.05.2020  23:07:22: ___ long_position_one by MANUALY position not in active dictionary. Set it.;
+04.05.2020  23:07:22: ___ Create long_position_oneby MANUALY position N: 1156369
+;
+04.05.2020  23:07:22: ___ long_position_one by MANUALY Enter price = 75315; Stop = 75295; ; Take = 75375;
+04.05.2020  23:07:36: ___ Delete position from active dictionary position: long_position_one;
+04.05.2020  23:07:59: ___ Long position_TWO by MANUALY 145 not in active dictionary. Set it. Set new last_min;
+04.05.2020  23:07:59: ___ Create Long TWO  by MANUALY position N: 1319339;
+04.05.2020  23:07:59: ___ Long TWO  by MANUALY Enter price = 75299; Stop = 75262; ; Take = 75369;
+04.05.2020  23:08:11: ___ Delete position from active dictionary position: long_position_145;
+04.05.2020  23:08:40: ___ Robot stoped!;
+05.05.2020  10:01:18: ___ Writer activated;
+05.05.2020  10:15:43: ___ Robot stoped!;
+05.05.2020  10:15:46: ___ Writer activated;
+05.05.2020  11:00:32: ___ Robot stoped!;
+05.05.2020  11:00:37: ___ Writer activated;
+05.05.2020  11:00:44: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  11:00:44: ___ Create short_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  11:00:44: ___ short_position_one by MANUALY Enter price = 74613; Stop = 74653; ; Take = 74473;
+05.05.2020  11:02:16: ___ Come to: block take stoploss
+;
+05.05.2020  11:02:22: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  11:03:11: ___ Robot stoped!;
+05.05.2020  11:10:04: ___ Writer activated;
+05.05.2020  11:10:13: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  11:10:13: ___ Create short_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  11:10:13: ___ short_position_one by MANUALY Enter price = 74594; Stop = 74634; ; Take = 74454;
+05.05.2020  11:16:24: ___ Writer activated;
+05.05.2020  11:17:27: ___ Robot stoped!;
+05.05.2020  11:17:29: ___ Writer activated;
+05.05.2020  11:19:39: ___ Robot stoped!;
+05.05.2020  11:21:14: ___ Writer activated;
+05.05.2020  11:21:36: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  11:21:36: ___ Create short_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  11:21:36: ___ short_position_one by MANUALY Enter price = 74634; Stop = 74674; ; Take = 74494;
+05.05.2020  11:24:20: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  11:33:44: ___ Robot stoped!;
+05.05.2020  11:33:46: ___ Writer activated;
+05.05.2020  11:36:30: ___ long_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  11:36:30: ___ Create long_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  11:36:30: ___ long_position_one by MANUALY Enter price = 74665; Stop = 74625; ; Take = 74805;
+05.05.2020  11:39:31: ___ Delete position from active dictionary position: long_position_one;
+05.05.2020  11:39:41: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  11:39:41: ___ Create short_position_oneby MANUALY position N: 1156369
+;
+05.05.2020  11:39:41: ___ short_position_one by MANUALY Enter price = 74655; Stop = 74695; ; Take = 74515;
+05.05.2020  11:40:28: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  11:40:32: ___ long_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  11:40:32: ___ Create long_position_oneby MANUALY position N: 1119339
+;
+05.05.2020  11:45:59: ___ Writer activated;
+05.05.2020  11:46:07: ___ long_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  11:46:07: ___ Create long_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  11:46:07: ___ long_position_one by MANUALY Enter price = 74780; Stop = 74740; ; Take = 74920;
+05.05.2020  11:46:16: ___ long_position_145 by MANUALY position not in active dictionary. Set it.;
+05.05.2020  11:46:16: ___ Create long_position_145by MANUALY position N: 1156369
+;
+05.05.2020  11:46:16: ___ long_position_145 by MANUALY Enter price = 74748; Stop = 74708; ; Take = 74888;
+05.05.2020  11:46:59: ___ Delete position from active dictionary position: long_position_one;
+05.05.2020  11:47:47: ___ Delete position from active dictionary position: long_position_145;
+05.05.2020  11:50:58: ___ Robot stoped!;
+05.05.2020  11:51:01: ___ Writer activated;
+05.05.2020  11:51:16: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  11:51:16: ___ Create short_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  11:51:16: ___ short_position_one by MANUALY Enter price = 74844; Stop = 74884; ; Take = 74704;
+05.05.2020  11:53:08: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  11:58:37: ___ Robot stoped!;
+05.05.2020  11:58:39: ___ Writer activated;
+05.05.2020  11:59:33: ___ long_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  11:59:33: ___ Create long_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  11:59:33: ___ long_position_one by MANUALY Enter price = 74871; Stop = 74831; ; Take = 75011;
+05.05.2020  11:59:56: ___ Delete position from active dictionary position: long_position_one;
+05.05.2020  12:00:49: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  12:00:49: ___ Create short_position_oneby MANUALY position N: 1156369
+;
+05.05.2020  12:00:49: ___ short_position_one by MANUALY Enter price = 74819; Stop = 74859; ; Take = 74679;
+05.05.2020  12:02:35: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  12:03:57: ___ Robot stoped!;
+05.05.2020  12:04:37: ___ Writer activated;
+05.05.2020  12:05:18: ___ long_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  12:05:18: ___ Create long_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  12:05:18: ___ long_position_one by MANUALY Enter price = 74893; Stop = 74853; ; Take = 75033;
+05.05.2020  12:06:45: ___ Come to: block take stoploss
+;
+05.05.2020  12:06:51: ___ Delete position from active dictionary position: long_position_one;
+05.05.2020  12:16:18: ___ Robot stoped!;
+05.05.2020  12:16:21: ___ Writer activated;
+05.05.2020  12:17:09: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  12:17:09: ___ Create short_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  12:17:09: ___ short_position_one by MANUALY Enter price = 74765; Stop = 74805; ; Take = 74625;
+05.05.2020  12:17:34: ___ short_position_145 by MANUALY position not in active dictionary. Set it.;
+05.05.2020  12:17:34: ___ Create short_position_145by MANUALY position N: 1156369
+;
+05.05.2020  12:17:34: ___ short_position_145 by MANUALY Enter price = 74778; Stop = 74818; ; Take = 74638;
+05.05.2020  12:17:52: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  12:19:42: ___ Delete position from active dictionary position: short_position_145;
+05.05.2020  12:53:42: ___ Robot stoped!;
+05.05.2020  12:53:45: ___ Writer activated;
+05.05.2020  12:59:31: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  12:59:31: ___ Create short_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  12:59:32: ___ short_position_one by MANUALY Enter price = 74532; Stop = 74572; ; Take = 74392;
+05.05.2020  13:00:33: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  13:15:40: ___ Robot stoped!;
+05.05.2020  13:15:43: ___ Writer activated;
+05.05.2020  13:17:10: ___ Robot stoped!;
+05.05.2020  13:17:15: ___ Writer activated;
+05.05.2020  13:20:47: ___ Robot stoped!;
+05.05.2020  13:21:35: ___ Writer activated;
+05.05.2020  13:22:53: ___ Robot stoped!;
+05.05.2020  14:28:16: ___ Writer activated;
+05.05.2020  14:30:17: ___ Robot stoped!;
+05.05.2020  14:30:17: ___ Writer activated;
+05.05.2020  15:11:53: ___ Robot stoped!;
+05.05.2020  15:11:54: ___ Writer activated;
+05.05.2020  15:12:21: ___ Robot stoped!;
+05.05.2020  15:12:23: ___ Writer activated;
+05.05.2020  15:14:15: ___ Writer activated;
+05.05.2020  15:14:30: ___ short_position_145 by MANUALY position not in active dictionary. Set it.;
+05.05.2020  15:14:30: ___ Create short_position_145by MANUALY position N: 1100129
+;
+05.05.2020  15:19:30: ___ Writer activated;
+05.05.2020  15:20:00: ___ Robot stoped!;
+05.05.2020  15:20:15: ___ Writer activated;
+05.05.2020  15:20:27: ___ long_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  15:20:27: ___ Create long_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  15:20:27: ___ long_position_one by MANUALY Enter price = 74644; Stop = 74579; ; Take = 74790;
+05.05.2020  15:20:41: ___ Delete position from active dictionary position: long_position_one;
+05.05.2020  15:23:05: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  15:23:05: ___ Create short_position_oneby MANUALY position N: 1156369
+;
+05.05.2020  15:23:05: ___ short_position_one by MANUALY Enter price = 74731; Stop = 74771; ; Take = 74591;
+05.05.2020  15:31:25: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  15:34:08: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  15:34:08: ___ Create short_position_oneby MANUALY position N: 1119339
+;
+05.05.2020  15:34:08: ___ short_position_one by MANUALY Enter price = 74683; Stop = 74723; ; Take = 74543;
+05.05.2020  15:37:08: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  15:41:03: ___ Robot stoped!;
+05.05.2020  15:41:10: ___ Writer activated;
+05.05.2020  15:50:45: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  15:50:45: ___ Create short_position_oneby MANUALY position N: 1100129
+;
+05.05.2020  15:50:45: ___ short_position_one by MANUALY Enter price = 74642; Stop = 74682; ; Take = 74502;
+05.05.2020  16:04:15: ___ short_position_145 by MANUALY position not in active dictionary. Set it.;
+05.05.2020  16:04:15: ___ Create short_position_145by MANUALY position N: 1156369
+;
+05.05.2020  16:04:15: ___ short_position_145 by MANUALY Enter price = 74749; Stop = 74806; ; Take = 74655;
+05.05.2020  16:10:16: ___ Delete position from active dictionary position: short_position_145;
+05.05.2020  16:10:51: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  16:53:22: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  16:53:22: ___ Create short_position_oneby MANUALY position N: 1119339
+;
+05.05.2020  16:53:22: ___ short_position_one by MANUALY Enter price = 74527; Stop = 74706; ; Take = 74205;
+05.05.2020  17:39:54: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  20:30:53: ___ short_position_one by MANUALY position not in active dictionary. Set it.;
+05.05.2020  20:30:53: ___ Create short_position_oneby MANUALY position N: 1180889
+;
+05.05.2020  20:30:53: ___ short_position_one by MANUALY Enter price = 74306; Stop = 74346; ; Take = 74166;
+05.05.2020  20:38:51: ___ Delete position from active dictionary position: short_position_one;
+05.05.2020  20:40:19: ___ Robot stoped!;
+05.05.2020  20:40:22: ___ Writer activated;
+05.05.2020  20:58:40: ___ Robot stoped!;
+05.05.2020  21:10:11: ___ Writer activated;
+05.05.2020  6:28:47: ___ Robot stoped!;
+05.05.2020  6:29:13: ___ Writer activated;
+05.05.2020  6:32:39: ___ Robot stoped!;
+05.05.2020  6:33:00: ___ Writer activated;
+05.05.2020  6:34:03: ___ Robot stoped!;
+05.05.2020  6:34:07: ___ Writer activated;
+05.05.2020  6:35:01: ___ Robot stoped!;
+05.05.2020  6:35:03: ___ Writer activated;
+05.05.2020  6:35:49: ___ Robot stoped!;
+05.05.2020  6:35:51: ___ Writer activated;
+05.05.2020  2:08:48: ___ Writer activated;
+05.05.2020  2:08:58: ___ Robot stoped!;
+05.05.2020  : ___ Writer activated;
+05.05.2020  : ___ Robot stoped!;
+06.05.2020  9:31:38: ___ Writer activated;
+06.05.2020  9:32:14: ___ Robot stoped!;
+06.05.2020  10:07:09: ___ Writer activated;
+06.05.2020  10:10:09: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  10:10:09: ___ Create long_1by MANUALY position N: 1100129
+;
+06.05.2020  10:10:09: ___ long_1 by MANUALY Enter price = 74192; Stop = 74142; ; Take = 74542;
+06.05.2020  10:18:20: ___ Delete position from active dictionary position: long_1;
+06.05.2020  10:18:20: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  10:18:20: ___ Create short_1by MANUALY position N: 1156369
+;
+06.05.2020  10:18:20: ___ short_1 by MANUALY Enter price = 74124; Stop = 74174; ; Take = 73774;
+06.05.2020  10:23:50: ___ Delete position from active dictionary position: short_1;
+06.05.2020  10:24:28: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  10:24:28: ___ Create long_1by MANUALY position N: 1119339
+;
+06.05.2020  10:24:28: ___ long_1 by MANUALY Enter price = 74225; Stop = 74175; ; Take = 74575;
+06.05.2020  10:30:48: ___ Delete position from active dictionary position: long_1;
+06.05.2020  10:33:17: ___ Robot stoped!;
+06.05.2020  10:33:23: ___ Writer activated;
+06.05.2020  10:34:38: ___ Robot stoped!;
+06.05.2020  10:37:35: ___ Writer activated;
+06.05.2020  10:38:42: ___ Robot stoped!;
+06.05.2020  10:40:21: ___ Writer activated;
+06.05.2020  10:43:04: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  10:43:04: ___ Create short_1by MANUALY position N: 1100129
+;
+06.05.2020  10:43:04: ___ short_1 by MANUALY Enter price = 74556; Stop = 74606; ; Take = 74206;
+06.05.2020  10:54:50: ___ Delete position from active dictionary position: short_1;
+06.05.2020  10:56:15: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  10:56:15: ___ Create short_2by MANUALY position N: 1156369
+;
+06.05.2020  10:56:15: ___ short_2 by MANUALY Enter price = 74466; Stop = 74516; ; Take = 74116;
+06.05.2020  10:59:45: ___ Delete position from active dictionary position: short_2;
+06.05.2020  10:59:45: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  10:59:45: ___ Create long_1by MANUALY position N: 1119339
+;
+06.05.2020  10:59:45: ___ long_1 by MANUALY Enter price = 74539; Stop = 74489; ; Take = 74889;
+06.05.2020  11:11:15: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  11:11:15: ___ Create long_2by MANUALY position N: 1180889
+;
+06.05.2020  11:11:15: ___ long_2 by MANUALY Enter price = 74700; Stop = 74650; ; Take = 74750;
+06.05.2020  11:15:30: ___ Delete position from active dictionary position: long_2;
+06.05.2020  11:31:16: ___ Delete position from active dictionary position: long_1;
+06.05.2020  11:34:02: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  11:34:02: ___ Create short_1by MANUALY position N: 1158509
+;
+06.05.2020  11:34:02: ___ short_1 by MANUALY Enter price = 74770; Stop = 74820; ; Take = 74420;
+06.05.2020  11:37:35: ___ Delete position from active dictionary position: short_1;
+06.05.2020  11:37:35: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  11:37:35: ___ Create short_1by MANUALY position N: 1147999
+;
+06.05.2020  11:37:35: ___ short_1 by MANUALY Enter price = 74642; Stop = 74692; ; Take = 74292;
+06.05.2020  11:39:45: ___ Delete position from active dictionary position: short_1;
+06.05.2020  11:39:45: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  11:39:45: ___ Create short_1by MANUALY position N: 1135039
+;
+06.05.2020  11:39:45: ___ short_1 by MANUALY Enter price = 74668; Stop = 74718; ; Take = 74318;
+06.05.2020  11:39:55: ___ Robot stoped!;
+06.05.2020  11:49:13: ___ Writer activated;
+06.05.2020  11:50:20: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  11:50:20: ___ Create long_1by MANUALY position N: 1100129
+;
+06.05.2020  11:50:20: ___ long_1 by MANUALY Enter price = 74705; Stop = 74655; ; Take = 75055;
+06.05.2020  11:56:25: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  11:56:25: ___ Create long_2by MANUALY position N: 1156369
+;
+06.05.2020  11:56:25: ___ long_2 by MANUALY Enter price = 74715; Stop = 74665; ; Take = 74765;
+06.05.2020  11:59:42: ___ Delete position from active dictionary position: long_2;
+06.05.2020  12:07:07: ___ Delete position from active dictionary position: long_1;
+06.05.2020  12:10:21: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  12:10:21: ___ Create short_1by MANUALY position N: 1119339
+;
+06.05.2020  12:10:21: ___ short_1 by MANUALY Enter price = 74854; Stop = 74904; ; Take = 74504;
+06.05.2020  12:15:52: ___ Writer activated;
+06.05.2020  12:16:52: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  12:16:52: ___ Create short_2by MANUALY position N: 1100129
+;
+06.05.2020  12:16:52: ___ short_2 by MANUALY Enter price = 74834; Stop = 74884; ; Take = 74484;
+06.05.2020  12:17:37: ___ Writer activated;
+06.05.2020  12:17:44: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  12:17:44: ___ Create short_2by MANUALY position N: 1100129
+;
+06.05.2020  12:17:44: ___ short_2 by MANUALY Enter price = 74832; Stop = 74882; ; Take = 74482;
+06.05.2020  12:23:31: ___ Writer activated;
+06.05.2020  12:27:26: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  12:27:26: ___ Create short_2by MANUALY position N: 1100129
+;
+06.05.2020  12:27:26: ___ short_2 by MANUALY Enter price = 74754; Stop = 74804; ; Take = 74704;
+06.05.2020  12:33:40: ___ Delete position from active dictionary position: short_2;
+06.05.2020  12:33:40: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  12:33:40: ___ Create long_1by MANUALY position N: 1156369
+;
+06.05.2020  12:33:40: ___ long_1 by MANUALY Enter price = 74801; Stop = 74751; ; Take = 75151;
+06.05.2020  12:47:03: ___ Delete position from active dictionary position: long_1;
+06.05.2020  12:49:34: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  12:49:34: ___ Create long_1by MANUALY position N: 1119339
+;
+06.05.2020  12:49:34: ___ long_1 by MANUALY Enter price = 74890; Stop = 74840; ; Take = 75240;
+06.05.2020  13:16:04: ___ Delete position from active dictionary position: long_1;
+06.05.2020  13:16:04: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  13:16:04: ___ Create short_1by MANUALY position N: 1180889
+;
+06.05.2020  13:16:04: ___ short_1 by MANUALY Enter price = 74897; Stop = 74947; ; Take = 74547;
+06.05.2020  13:19:14: ___ Delete position from active dictionary position: short_1;
+06.05.2020  13:22:26: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  13:22:26: ___ Create long_2by MANUALY position N: 1158509
+;
+06.05.2020  13:22:26: ___ long_2 by MANUALY Enter price = 74914; Stop = 74864; ; Take = 74964;
+06.05.2020  13:28:14: ___ Delete position from active dictionary position: long_2;
+06.05.2020  13:28:14: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  13:28:14: ___ Create short_1by MANUALY position N: 1147999
+;
+06.05.2020  13:28:14: ___ short_1 by MANUALY Enter price = 74905; Stop = 74955; ; Take = 74555;
+06.05.2020  13:57:23: ___ Delete position from active dictionary position: short_1;
+06.05.2020  13:57:23: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  13:57:23: ___ Create long_1by MANUALY position N: 1135039
+;
+06.05.2020  13:57:23: ___ long_1 by MANUALY Enter price = 74850; Stop = 74800; ; Take = 75200;
+06.05.2020  14:06:44: ___ Delete position from active dictionary position: long_1;
+06.05.2020  14:06:44: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  14:06:44: ___ Create short_1by MANUALY position N: 1189609
+;
+06.05.2020  14:06:44: ___ short_1 by MANUALY Enter price = 74788; Stop = 74838; ; Take = 74438;
+06.05.2020  14:12:01: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  14:12:01: ___ Create short_2by MANUALY position N: 1182299
+;
+06.05.2020  14:12:02: ___ short_2 by MANUALY Enter price = 74809; Stop = 74859; ; Take = 74759;
+06.05.2020  14:15:19: ___ Delete position from active dictionary position: short_1;
+06.05.2020  14:15:19: ___ Delete position from active dictionary position: short_2;
+06.05.2020  14:15:19: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  14:15:19: ___ Create long_1by MANUALY position N: 1174669
+;
+06.05.2020  14:15:19: ___ long_1 by MANUALY Enter price = 74830; Stop = 74780; ; Take = 75180;
+06.05.2020  14:30:58: ___ Delete position from active dictionary position: long_1;
+06.05.2020  14:31:00: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  14:31:00: ___ Create short_1by MANUALY position N: 1117419
+;
+06.05.2020  14:31:00: ___ short_1 by MANUALY Enter price = 74774; Stop = 74824; ; Take = 74424;
+06.05.2020  14:36:49: ___ Delete position from active dictionary position: short_1;
+06.05.2020  14:37:48: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  14:37:48: ___ Create long_1by MANUALY position N: 1185909
+;
+06.05.2020  14:37:48: ___ long_1 by MANUALY Enter price = 74818; Stop = 74768; ; Take = 75168;
+06.05.2020  15:02:26: ___ Delete position from active dictionary position: long_1;
+06.05.2020  15:12:39: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  15:12:39: ___ Create short_1by MANUALY position N: 1171059
+;
+06.05.2020  15:12:39: ___ short_1 by MANUALY Enter price = 75168; Stop = 75218; ; Take = 74818;
+06.05.2020  15:15:12: ___ Delete position from active dictionary position: short_1;
+06.05.2020  15:15:12: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  15:15:12: ___ Create long_1by MANUALY position N: 1151359
+;
+06.05.2020  15:15:12: ___ long_1 by MANUALY Enter price = 75281; Stop = 75231; ; Take = 75631;
+06.05.2020  15:18:32: ___ Delete position from active dictionary position: long_1;
+06.05.2020  15:18:32: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  15:18:32: ___ Create long_1by MANUALY position N: 1130409
+;
+06.05.2020  15:18:32: ___ long_1 by MANUALY Enter price = 75467; Stop = 75417; ; Take = 75817;
+06.05.2020  15:18:59: ___ Delete position from active dictionary position: long_1;
+06.05.2020  15:18:59: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  15:18:59: ___ Create long_1by MANUALY position N: 1101499
+;
+06.05.2020  15:18:59: ___ long_1 by MANUALY Enter price = 75440; Stop = 75390; ; Take = 75790;
+06.05.2020  15:23:09: ___ Writer activated;
+06.05.2020  15:26:50: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  15:26:50: ___ Create short_1by MANUALY position N: 1100129
+;
+06.05.2020  15:26:50: ___ short_1 by MANUALY Enter price = 75360; Stop = 75410; ; Take = 75010;
+06.05.2020  15:30:47: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  15:30:47: ___ Create short_2by MANUALY position N: 1156369
+;
+06.05.2020  15:30:47: ___ short_2 by MANUALY Enter price = 75389; Stop = 75439; ; Take = 75339;
+06.05.2020  15:37:01: ___ Delete position from active dictionary position: short_2;
+06.05.2020  15:40:01: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  15:40:01: ___ Create short_2by MANUALY position N: 1119339
+;
+06.05.2020  15:40:01: ___ short_2 by MANUALY Enter price = 75372; Stop = 75422; ; Take = 75322;
+06.05.2020  15:42:20: ___ Delete position from active dictionary position: short_1;
+06.05.2020  15:42:20: ___ Delete position from active dictionary position: short_2;
+06.05.2020  15:42:20: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  15:42:20: ___ Create long_1by MANUALY position N: 1180889
+;
+06.05.2020  15:42:20: ___ long_1 by MANUALY Enter price = 75411; Stop = 75361; ; Take = 75761;
+06.05.2020  15:49:40: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  15:49:40: ___ Create long_2by MANUALY position N: 1158509
+;
+06.05.2020  15:49:40: ___ long_2 by MANUALY Enter price = 75374; Stop = 75324; ; Take = 75424;
+06.05.2020  15:50:39: ___ Delete position from active dictionary position: long_1;
+06.05.2020  15:50:39: ___ Delete position from active dictionary position: long_2;
+06.05.2020  15:50:39: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  15:50:39: ___ Create short_1by MANUALY position N: 1147999
+;
+06.05.2020  15:50:39: ___ short_1 by MANUALY Enter price = 75356; Stop = 75406; ; Take = 75006;
+06.05.2020  15:55:02: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  15:55:02: ___ Create short_2by MANUALY position N: 1135039
+;
+06.05.2020  15:55:02: ___ short_2 by MANUALY Enter price = 75395; Stop = 75445; ; Take = 75345;
+06.05.2020  15:56:05: ___ Delete position from active dictionary position: short_2;
+06.05.2020  16:02:35: ___ Delete position from active dictionary position: short_1;
+06.05.2020  16:03:12: ___ Robot stoped!;
+06.05.2020  16:03:43: ___ Writer activated;
+06.05.2020  16:06:22: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:06:22: ___ Create short_2by MANUALY position N: 1100129
+;
+06.05.2020  16:06:22: ___ short_2 by MANUALY Enter price = 75260; Stop = 75310; ; Take = 75210;
+06.05.2020  16:10:11: ___ Delete position from active dictionary position: short_2;
+06.05.2020  16:10:12: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:10:12: ___ Create long_1by MANUALY position N: 1156369
+;
+06.05.2020  16:10:12: ___ long_1 by MANUALY Enter price = 75279; Stop = 75229; ; Take = 75629;
+06.05.2020  16:15:22: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:15:22: ___ Create long_2by MANUALY position N: 1119339
+;
+06.05.2020  16:15:22: ___ long_2 by MANUALY Enter price = 75287; Stop = 75237; ; Take = 75337;
+06.05.2020  16:16:02: ___ Delete position from active dictionary position: long_1;
+06.05.2020  16:16:02: ___ Delete position from active dictionary position: long_2;
+06.05.2020  16:16:02: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:16:02: ___ Create short_1by MANUALY position N: 1180889
+;
+06.05.2020  16:16:02: ___ short_1 by MANUALY Enter price = 75254; Stop = 75304; ; Take = 74904;
+06.05.2020  16:20:00: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:20:00: ___ Create short_2by MANUALY position N: 1158509
+;
+06.05.2020  16:20:00: ___ short_2 by MANUALY Enter price = 75264; Stop = 75314; ; Take = 75214;
+06.05.2020  16:22:30: ___ Delete position from active dictionary position: short_2;
+06.05.2020  16:30:00: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:30:00: ___ Create short_2by MANUALY position N: 1147999
+;
+06.05.2020  16:30:00: ___ short_2 by MANUALY Enter price = 75185; Stop = 75235; ; Take = 75135;
+06.05.2020  16:30:19: ___ Delete position from active dictionary position: short_1;
+06.05.2020  16:30:19: ___ Delete position from active dictionary position: short_2;
+06.05.2020  16:30:19: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:30:19: ___ Create long_1by MANUALY position N: 1135039
+;
+06.05.2020  16:30:19: ___ long_1 by MANUALY Enter price = 75181; Stop = 75131; ; Take = 75531;
+06.05.2020  16:30:24: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:30:24: ___ Create long_2by MANUALY position N: 1189609
+;
+06.05.2020  16:30:25: ___ long_2 by MANUALY Enter price = 75162; Stop = 75112; ; Take = 75212;
+06.05.2020  16:32:41: ___ Delete position from active dictionary position: long_1;
+06.05.2020  16:32:41: ___ Delete position from active dictionary position: long_2;
+06.05.2020  16:32:41: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:32:41: ___ Create short_1by MANUALY position N: 1182299
+;
+06.05.2020  16:32:41: ___ short_1 by MANUALY Enter price = 75116; Stop = 75166; ; Take = 74766;
+06.05.2020  16:40:00: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:40:00: ___ Create short_2by MANUALY position N: 1174669
+;
+06.05.2020  16:40:00: ___ short_2 by MANUALY Enter price = 75122; Stop = 75172; ; Take = 75072;
+06.05.2020  16:40:17: ___ Delete position from active dictionary position: short_1;
+06.05.2020  16:40:17: ___ Delete position from active dictionary position: short_2;
+06.05.2020  16:40:17: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:40:17: ___ Create long_1by MANUALY position N: 1117419
+;
+06.05.2020  16:40:17: ___ long_1 by MANUALY Enter price = 75158; Stop = 75108; ; Take = 75508;
+06.05.2020  16:55:55: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:55:55: ___ Create long_2by MANUALY position N: 1185909
+;
+06.05.2020  16:55:55: ___ long_2 by MANUALY Enter price = 75281; Stop = 75231; ; Take = 75331;
+06.05.2020  16:57:48: ___ Delete position from active dictionary position: long_2;
+06.05.2020  16:59:11: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  16:59:11: ___ Create long_2by MANUALY position N: 1171059
+;
+06.05.2020  16:59:11: ___ long_2 by MANUALY Enter price = 75285; Stop = 75235; ; Take = 75335;
+06.05.2020  17:00:40: ___ Delete position from active dictionary position: long_1;
+06.05.2020  17:00:40: ___ Delete position from active dictionary position: long_2;
+06.05.2020  17:00:40: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  17:00:40: ___ Create short_1by MANUALY position N: 1151359
+;
+06.05.2020  17:00:40: ___ short_1 by MANUALY Enter price = 75246; Stop = 75296; ; Take = 74896;
+06.05.2020  17:07:51: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  17:07:51: ___ Create short_2by MANUALY position N: 1130409
+;
+06.05.2020  17:07:51: ___ short_2 by MANUALY Enter price = 75248; Stop = 75298; ; Take = 75198;
+06.05.2020  17:20:20: ___ Delete position from active dictionary position: short_2;
+06.05.2020  17:38:17: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  17:38:17: ___ Create short_2by MANUALY position N: 1101499
+;
+06.05.2020  17:38:17: ___ short_2 by MANUALY Enter price = 75011; Stop = 75061; ; Take = 74961;
+06.05.2020  17:39:16: ___ Delete position from active dictionary position: short_1;
+06.05.2020  17:39:16: ___ Delete position from active dictionary position: short_2;
+06.05.2020  17:39:18: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  17:39:18: ___ Create long_1by MANUALY position N: 1109149
+;
+06.05.2020  17:39:18: ___ long_1 by MANUALY Enter price = 75076; Stop = 75026; ; Take = 75426;
+06.05.2020  17:45:30: ___ Delete position from active dictionary position: long_1;
+06.05.2020  17:45:30: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  17:45:30: ___ Create short_1by MANUALY position N: 1136449
+;
+06.05.2020  17:45:30: ___ short_1 by MANUALY Enter price = 74958; Stop = 75008; ; Take = 74608;
+06.05.2020  17:50:02: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  17:50:02: ___ Create short_2by MANUALY position N: 1114739
+;
+06.05.2020  17:50:02: ___ short_2 by MANUALY Enter price = 74939; Stop = 74989; ; Take = 74889;
+06.05.2020  17:55:46: ___ Delete position from active dictionary position: short_1;
+06.05.2020  17:55:46: ___ Delete position from active dictionary position: short_2;
+06.05.2020  17:55:46: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  17:55:46: ___ Create long_1by MANUALY position N: 1116599
+;
+06.05.2020  17:55:46: ___ long_1 by MANUALY Enter price = 74968; Stop = 74918; ; Take = 75318;
+06.05.2020  18:10:01: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  18:10:01: ___ Create long_2by MANUALY position N: 1198869
+;
+06.05.2020  18:10:01: ___ long_2 by MANUALY Enter price = 75073; Stop = 75023; ; Take = 75123;
+06.05.2020  18:10:26: ___ Delete position from active dictionary position: long_1;
+06.05.2020  18:10:26: ___ Delete position from active dictionary position: long_2;
+06.05.2020  18:10:26: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  18:10:26: ___ Create short_1by MANUALY position N: 1144579
+;
+06.05.2020  18:10:26: ___ short_1 by MANUALY Enter price = 75026; Stop = 75076; ; Take = 74676;
+06.05.2020  18:16:28: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  18:16:28: ___ Create short_2by MANUALY position N: 1111909
+;
+06.05.2020  18:16:28: ___ short_2 by MANUALY Enter price = 75013; Stop = 75063; ; Take = 74963;
+06.05.2020  18:17:22: ___ Delete position from active dictionary position: short_2;
+06.05.2020  18:20:01: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  18:20:01: ___ Create short_2by MANUALY position N: 1100469
+;
+06.05.2020  18:20:01: ___ short_2 by MANUALY Enter price = 74964; Stop = 75014; ; Take = 74914;
+06.05.2020  18:25:13: ___ Delete position from active dictionary position: short_1;
+06.05.2020  18:25:13: ___ Delete position from active dictionary position: short_2;
+06.05.2020  18:25:13: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  18:25:13: ___ Create long_1by MANUALY position N: 1100899
+;
+06.05.2020  18:25:13: ___ long_1 by MANUALY Enter price = 75028; Stop = 74978; ; Take = 75378;
+06.05.2020  18:30:00: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  18:30:00: ___ Create long_2by MANUALY position N: 1137799
+;
+06.05.2020  18:30:00: ___ long_2 by MANUALY Enter price = 75011; Stop = 74961; ; Take = 75061;
+06.05.2020  18:32:48: ___ Delete position from active dictionary position: long_2;
+06.05.2020  19:00:18: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  19:00:18: ___ Create long_2by MANUALY position N: 1153179
+;
+06.05.2020  19:00:18: ___ long_2 by MANUALY Enter price = 75058; Stop = 75008; ; Take = 75108;
+06.05.2020  19:02:10: ___ Delete position from active dictionary position: long_2;
+06.05.2020  19:10:51: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  19:10:51: ___ Create long_2by MANUALY position N: 1157129
+;
+06.05.2020  19:10:51: ___ long_2 by MANUALY Enter price = 75186; Stop = 75136; ; Take = 75236;
+06.05.2020  19:18:51: ___ Delete position from active dictionary position: long_1;
+06.05.2020  19:18:51: ___ Delete position from active dictionary position: long_2;
+06.05.2020  19:18:51: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  19:18:51: ___ Create short_1by MANUALY position N: 1160189
+;
+06.05.2020  19:18:51: ___ short_1 by MANUALY Enter price = 75156; Stop = 75206; ; Take = 74806;
+06.05.2020  19:29:01: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  19:29:01: ___ Create short_2by MANUALY position N: 1160729
+;
+06.05.2020  19:29:01: ___ short_2 by MANUALY Enter price = 75096; Stop = 75146; ; Take = 75046;
+06.05.2020  19:30:11: ___ Delete position from active dictionary position: short_1;
+06.05.2020  19:30:11: ___ Delete position from active dictionary position: short_2;
+06.05.2020  19:30:11: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  19:30:11: ___ Create long_1by MANUALY position N: 1116629
+;
+06.05.2020  19:30:11: ___ long_1 by MANUALY Enter price = 75114; Stop = 75064; ; Take = 75464;
+06.05.2020  19:35:01: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  19:35:01: ___ Create long_2by MANUALY position N: 1166319
+;
+06.05.2020  19:35:01: ___ long_2 by MANUALY Enter price = 75103; Stop = 75053; ; Take = 75153;
+06.05.2020  19:35:47: ___ Delete position from active dictionary position: long_1;
+06.05.2020  19:35:47: ___ Delete position from active dictionary position: long_2;
+06.05.2020  19:35:47: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  19:35:47: ___ Create short_1by MANUALY position N: 1145089
+;
+06.05.2020  19:35:47: ___ short_1 by MANUALY Enter price = 75079; Stop = 75129; ; Take = 74729;
+06.05.2020  19:36:44: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  19:36:44: ___ Create short_2by MANUALY position N: 1135219
+;
+06.05.2020  19:36:44: ___ short_2 by MANUALY Enter price = 75109; Stop = 75159; ; Take = 75059;
+06.05.2020  19:39:24: ___ Delete position from active dictionary position: short_2;
+06.05.2020  19:40:21: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  19:40:21: ___ Create short_2by MANUALY position N: 1105709
+;
+06.05.2020  19:40:21: ___ short_2 by MANUALY Enter price = 75090; Stop = 75140; ; Take = 75040;
+06.05.2020  19:42:45: ___ Delete position from active dictionary position: short_2;
+06.05.2020  19:52:09: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  19:52:09: ___ Create short_2by MANUALY position N: 1160779
+;
+06.05.2020  19:52:09: ___ short_2 by MANUALY Enter price = 75013; Stop = 75063; ; Take = 74963;
+06.05.2020  19:53:53: ___ Delete position from active dictionary position: short_2;
+06.05.2020  20:00:01: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  20:00:01: ___ Create short_2by MANUALY position N: 1178339
+;
+06.05.2020  20:00:01: ___ short_2 by MANUALY Enter price = 74945; Stop = 74995; ; Take = 74895;
+06.05.2020  20:00:54: ___ Delete position from active dictionary position: short_1;
+06.05.2020  20:00:54: ___ Delete position from active dictionary position: short_2;
+06.05.2020  20:00:54: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  20:00:54: ___ Create long_1by MANUALY position N: 1180269
+;
+06.05.2020  20:00:54: ___ long_1 by MANUALY Enter price = 74951; Stop = 74901; ; Take = 75301;
+06.05.2020  20:05:01: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  20:05:01: ___ Create long_2by MANUALY position N: 1151999
+;
+06.05.2020  20:05:01: ___ long_2 by MANUALY Enter price = 74958; Stop = 74908; ; Take = 75008;
+06.05.2020  20:19:56: ___ Delete position from active dictionary position: long_1;
+06.05.2020  20:19:56: ___ Delete position from active dictionary position: long_2;
+06.05.2020  20:19:56: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  20:19:56: ___ Create short_1by MANUALY position N: 1130199
+;
+06.05.2020  20:19:56: ___ short_1 by MANUALY Enter price = 74929; Stop = 74979; ; Take = 74579;
+06.05.2020  20:20:47: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  20:20:47: ___ Create short_2by MANUALY position N: 1187609
+;
+06.05.2020  20:20:47: ___ short_2 by MANUALY Enter price = 74955; Stop = 75005; ; Take = 74905;
+06.05.2020  20:22:34: ___ Delete position from active dictionary position: short_1;
+06.05.2020  20:22:34: ___ Delete position from active dictionary position: short_2;
+06.05.2020  20:22:34: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  20:22:34: ___ Create long_1by MANUALY position N: 1172679
+;
+06.05.2020  20:22:34: ___ long_1 by MANUALY Enter price = 74988; Stop = 74938; ; Take = 75338;
+06.05.2020  20:25:04: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  20:25:04: ___ Create long_2by MANUALY position N: 1195599
+;
+06.05.2020  20:25:04: ___ long_2 by MANUALY Enter price = 74950; Stop = 74900; ; Take = 75000;
+06.05.2020  20:28:09: ___ Delete position from active dictionary position: long_1;
+06.05.2020  20:28:09: ___ Delete position from active dictionary position: long_2;
+06.05.2020  20:28:09: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  20:28:09: ___ Create short_1by MANUALY position N: 1192589
+;
+06.05.2020  20:28:09: ___ short_1 by MANUALY Enter price = 74934; Stop = 74984; ; Take = 74584;
+06.05.2020  20:35:56: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+06.05.2020  20:35:56: ___ Create short_2by MANUALY position N: 1153949
+;
+06.05.2020  20:35:56: ___ short_2 by MANUALY Enter price = 74868; Stop = 74918; ; Take = 74818;
+06.05.2020  20:38:18: ___ Delete position from active dictionary position: short_2;
+06.05.2020  20:40:47: ___ Robot stoped!;
+07.05.2020  9:36:48: ___ Writer activated;
+07.05.2020  10:25:01: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  10:25:01: ___ Create short_2by MANUALY position N: 1100129
+;
+07.05.2020  10:25:01: ___ short_2 by MANUALY Enter price = 74513; Stop = 74563; ; Take = 74433;
+07.05.2020  10:27:30: ___ Delete position from active dictionary position: short_2;
+07.05.2020  10:28:49: ___ Robot stoped!;
+07.05.2020  10:29:53: ___ Writer activated;
+07.05.2020  10:30:39: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  10:30:39: ___ Create short_2by MANUALY position N: 1100129
+;
+07.05.2020  10:30:39: ___ short_2 by MANUALY Enter price = 74507; Stop = 74557; ; Take = 74427;
+07.05.2020  10:31:04: ___ Delete position from active dictionary position: short_2;
+07.05.2020  10:31:14: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  10:31:14: ___ Create long_1by MANUALY position N: 1156369
+;
+07.05.2020  10:31:14: ___ long_1 by MANUALY Enter price = 74525; Stop = 74475; ; Take = 74875;
+07.05.2020  10:40:08: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  10:40:08: ___ Create long_2by MANUALY position N: 1119339
+;
+07.05.2020  10:40:08: ___ long_2 by MANUALY Enter price = 74606; Stop = 74556; ; Take = 74686;
+07.05.2020  10:41:35: ___ Delete position from active dictionary position: long_1;
+07.05.2020  10:41:35: ___ Delete position from active dictionary position: long_2;
+07.05.2020  10:52:05: ___ Robot stoped!;
+07.05.2020  10:52:06: ___ Writer activated;
+07.05.2020  10:52:22: ___ Robot stoped!;
+07.05.2020  10:52:42: ___ Writer activated;
+07.05.2020  10:55:49: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  10:55:49: ___ Create short_2by MANUALY position N: 1100129
+;
+07.05.2020  10:55:49: ___ short_2 by MANUALY Enter price = 74448; Stop = 74498; ; Take = 74368;
+07.05.2020  10:56:17: ___ Delete position from active dictionary position: short_2;
+07.05.2020  10:56:17: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  10:56:17: ___ Create long_1by MANUALY position N: 1156369
+;
+07.05.2020  10:56:17: ___ long_1 by MANUALY Enter price = 74499; Stop = 74449; ; Take = 74849;
+07.05.2020  11:06:24: ___ Robot stoped!;
+07.05.2020  11:06:33: ___ Writer activated;
+07.05.2020  11:11:44: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  11:11:44: ___ Create long_1by MANUALY position N: 1100129
+;
+07.05.2020  11:11:44: ___ long_1 by MANUALY Enter price = 74559; Stop = 74509; ; Take = 74909;
+07.05.2020  11:15:10: ___ Delete position from active dictionary position: long_1;
+07.05.2020  11:16:04: ___ Robot stoped!;
+07.05.2020  11:17:57: ___ Writer activated;
+07.05.2020  11:18:00: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  11:18:00: ___ Create short_1by MANUALY position N: 1100129
+;
+07.05.2020  11:18:00: ___ short_1 by MANUALY Enter price = 74501; Stop = 74551; ; Take = 74151;
+07.05.2020  11:20:00: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  11:20:00: ___ Create short_2by MANUALY position N: 1156369
+;
+07.05.2020  11:20:00: ___ short_2 by MANUALY Enter price = 74521; Stop = 74571; ; Take = 74441;
+07.05.2020  11:30:41: ___ Delete position from active dictionary position: short_2;
+07.05.2020  11:35:02: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  11:35:02: ___ Create short_2by MANUALY position N: 1119339
+;
+07.05.2020  11:35:02: ___ short_2 by MANUALY Enter price = 74470; Stop = 74520; ; Take = 74390;
+07.05.2020  11:54:28: ___ Writer activated;
+07.05.2020  11:54:25: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  11:54:25: ___ Create long_1by MANUALY position N: 1100129
+;
+07.05.2020  11:54:25: ___ long_1 by MANUALY Enter price = 74499; Stop = 74449; ; Take = 74849;
+07.05.2020  12:00:19: ___ Delete position from active dictionary position: long_1;
+07.05.2020  12:00:19: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:00:19: ___ Create short_1by MANUALY position N: 1156369
+;
+07.05.2020  12:00:19: ___ short_1 by MANUALY Enter price = 74462; Stop = 74512; ; Take = 74112;
+07.05.2020  12:05:14: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:05:14: ___ Create short_2by MANUALY position N: 1119339
+;
+07.05.2020  12:05:14: ___ short_2 by MANUALY Enter price = 74485; Stop = 74535; ; Take = 74435;
+07.05.2020  12:06:51: ___ Delete position from active dictionary position: short_2;
+07.05.2020  12:09:15: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:09:15: ___ Create short_2by MANUALY position N: 1180889
+;
+07.05.2020  12:09:15: ___ short_2 by MANUALY Enter price = 74488; Stop = 74538; ; Take = 74438;
+07.05.2020  12:11:34: ___ Delete position from active dictionary position: short_1;
+07.05.2020  12:11:34: ___ Delete position from active dictionary position: short_2;
+07.05.2020  12:11:34: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:11:34: ___ Create long_1by MANUALY position N: 1158509
+;
+07.05.2020  12:11:34: ___ long_1 by MANUALY Enter price = 74493; Stop = 74443; ; Take = 74843;
+07.05.2020  12:13:19: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:13:19: ___ Create long_2by MANUALY position N: 1147999
+;
+07.05.2020  12:13:19: ___ long_2 by MANUALY Enter price = 74450; Stop = 74400; ; Take = 74530;
+07.05.2020  12:14:24: ___ Delete position from active dictionary position: long_1;
+07.05.2020  12:14:24: ___ Delete position from active dictionary position: long_2;
+07.05.2020  12:14:24: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:14:24: ___ Create short_1by MANUALY position N: 1135039
+;
+07.05.2020  12:14:24: ___ short_1 by MANUALY Enter price = 74424; Stop = 74474; ; Take = 74074;
+07.05.2020  12:23:56: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:23:56: ___ Create short_2by MANUALY position N: 1189609
+;
+07.05.2020  12:23:56: ___ short_2 by MANUALY Enter price = 74309; Stop = 74359; ; Take = 74189;
+07.05.2020  12:28:51: ___ Delete position from active dictionary position: short_2;
+07.05.2020  12:35:18: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:35:18: ___ Create short_2by MANUALY position N: 1182299
+;
+07.05.2020  12:35:18: ___ short_2 by MANUALY Enter price = 74187; Stop = 74237; ; Take = 74107;
+07.05.2020  12:37:50: ___ Delete position from active dictionary position: short_1;
+07.05.2020  12:37:50: ___ Delete position from active dictionary position: short_2;
+07.05.2020  12:37:50: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:37:50: ___ Create long_1by MANUALY position N: 1174669
+;
+07.05.2020  12:37:50: ___ long_1 by MANUALY Enter price = 74212; Stop = 74162; ; Take = 74562;
+07.05.2020  12:40:48: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:40:48: ___ Create long_2by MANUALY position N: 1117419
+;
+07.05.2020  12:40:48: ___ long_2 by MANUALY Enter price = 74176; Stop = 74126; ; Take = 74256;
+07.05.2020  12:41:30: ___ Delete position from active dictionary position: long_1;
+07.05.2020  12:41:30: ___ Delete position from active dictionary position: long_2;
+07.05.2020  12:41:30: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:41:30: ___ Create short_1by MANUALY position N: 1185909
+;
+07.05.2020  12:41:30: ___ short_1 by MANUALY Enter price = 74127; Stop = 74177; ; Take = 73777;
+07.05.2020  12:43:40: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:43:40: ___ Create short_2by MANUALY position N: 1171059
+;
+07.05.2020  12:43:40: ___ short_2 by MANUALY Enter price = 74203; Stop = 74253; ; Take = 74123;
+07.05.2020  12:53:02: ___ Delete position from active dictionary position: short_1;
+07.05.2020  12:53:02: ___ Delete position from active dictionary position: short_2;
+07.05.2020  12:53:02: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  12:53:02: ___ Create long_1by MANUALY position N: 1151359
+;
+07.05.2020  12:53:02: ___ long_1 by MANUALY Enter price = 74223; Stop = 74173; ; Take = 74573;
+07.05.2020  13:06:54: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  13:06:54: ___ Create long_2by MANUALY position N: 1130409
+;
+07.05.2020  13:06:54: ___ long_2 by MANUALY Enter price = 74250; Stop = 74200; ; Take = 74330;
+07.05.2020  13:08:17: ___ Delete position from active dictionary position: long_1;
+07.05.2020  13:08:17: ___ Delete position from active dictionary position: long_2;
+07.05.2020  13:08:17: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  13:08:17: ___ Create short_1by MANUALY position N: 1101499
+;
+07.05.2020  13:08:17: ___ short_1 by MANUALY Enter price = 74223; Stop = 74273; ; Take = 73873;
+07.05.2020  13:15:48: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  13:15:48: ___ Create short_2by MANUALY position N: 1109149
+;
+07.05.2020  13:15:48: ___ short_2 by MANUALY Enter price = 74201; Stop = 74251; ; Take = 74121;
+07.05.2020  13:18:19: ___ Delete position from active dictionary position: short_1;
+07.05.2020  13:18:19: ___ Delete position from active dictionary position: short_2;
+07.05.2020  13:18:19: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  13:18:19: ___ Create long_1by MANUALY position N: 1136449
+;
+07.05.2020  13:18:19: ___ long_1 by MANUALY Enter price = 74222; Stop = 74172; ; Take = 74572;
+07.05.2020  13:30:03: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  13:30:03: ___ Create long_2by MANUALY position N: 1114739
+;
+07.05.2020  13:30:03: ___ long_2 by MANUALY Enter price = 74237; Stop = 74187; ; Take = 74287;
+07.05.2020  13:30:47: ___ Delete position from active dictionary position: long_1;
+07.05.2020  13:30:47: ___ Delete position from active dictionary position: long_2;
+07.05.2020  13:30:47: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  13:30:47: ___ Create short_1by MANUALY position N: 1116599
+;
+07.05.2020  13:30:47: ___ short_1 by MANUALY Enter price = 74226; Stop = 74276; ; Take = 73876;
+07.05.2020  13:37:03: ___ Delete position from active dictionary position: short_1;
+07.05.2020  13:37:03: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  13:37:03: ___ Create long_1by MANUALY position N: 1198869
+;
+07.05.2020  13:37:03: ___ long_1 by MANUALY Enter price = 74255; Stop = 74205; ; Take = 74605;
+07.05.2020  13:48:17: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  13:48:17: ___ Create long_2by MANUALY position N: 1144579
+;
+07.05.2020  13:48:17: ___ long_2 by MANUALY Enter price = 74352; Stop = 74302; ; Take = 74432;
+07.05.2020  14:05:05: ___ Delete position from active dictionary position: long_1;
+07.05.2020  14:05:05: ___ Delete position from active dictionary position: long_2;
+07.05.2020  14:10:14: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  14:10:14: ___ Create short_2by MANUALY position N: 1111909
+;
+07.05.2020  14:10:15: ___ short_2 by MANUALY Enter price = 74310; Stop = 74360; ; Take = 74190;
+07.05.2020  14:17:25: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  14:17:25: ___ Create short_1by MANUALY position N: 1100469
+;
+07.05.2020  14:17:25: ___ short_1 by MANUALY Enter price = 74232; Stop = 74282; ; Take = 73882;
+07.05.2020  14:24:09: ___ Delete position from active dictionary position: short_2;
+07.05.2020  14:24:09: ___ Delete position from active dictionary position: short_1;
+07.05.2020  14:24:10: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  14:24:10: ___ Create long_1by MANUALY position N: 1100899
+;
+07.05.2020  14:24:10: ___ long_1 by MANUALY Enter price = 74291; Stop = 74241; ; Take = 74641;
+07.05.2020  14:30:01: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  14:30:01: ___ Create long_2by MANUALY position N: 1137799
+;
+07.05.2020  14:30:01: ___ long_2 by MANUALY Enter price = 74280; Stop = 74230; ; Take = 74330;
+07.05.2020  14:33:14: ___ Delete position from active dictionary position: long_1;
+07.05.2020  14:33:14: ___ Delete position from active dictionary position: long_2;
+07.05.2020  14:33:14: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  14:33:14: ___ Create short_1by MANUALY position N: 1153179
+;
+07.05.2020  14:33:14: ___ short_1 by MANUALY Enter price = 74268; Stop = 74318; ; Take = 73918;
+07.05.2020  14:49:09: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  14:49:09: ___ Create short_2by MANUALY position N: 1157129
+;
+07.05.2020  14:49:09: ___ short_2 by MANUALY Enter price = 74240; Stop = 74290; ; Take = 74160;
+07.05.2020  14:50:05: ___ Delete position from active dictionary position: short_1;
+07.05.2020  14:50:05: ___ Delete position from active dictionary position: short_2;
+07.05.2020  14:50:05: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  14:50:05: ___ Create long_1by MANUALY position N: 1160189
+;
+07.05.2020  14:50:05: ___ long_1 by MANUALY Enter price = 74264; Stop = 74214; ; Take = 74614;
+07.05.2020  14:55:10: ___ Delete position from active dictionary position: long_1;
+07.05.2020  14:55:10: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  14:55:10: ___ Create short_1by MANUALY position N: 1160729
+;
+07.05.2020  14:55:10: ___ short_1 by MANUALY Enter price = 74240; Stop = 74290; ; Take = 73890;
+07.05.2020  15:00:41: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  15:00:41: ___ Create short_2by MANUALY position N: 1116629
+;
+07.05.2020  15:00:41: ___ short_2 by MANUALY Enter price = 74229; Stop = 74279; ; Take = 74179;
+07.05.2020  15:01:20: ___ Delete position from active dictionary position: short_1;
+07.05.2020  15:01:20: ___ Delete position from active dictionary position: short_2;
+07.05.2020  15:04:42: ___ Robot stoped!;
+07.05.2020  15:07:22: ___ Writer activated;
+07.05.2020  15:09:52: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  15:09:52: ___ Create long_1by MANUALY position N: 1100129
+;
+07.05.2020  15:09:52: ___ long_1 by MANUALY Enter price = 74251; Stop = 74201; ; Take = 74601;
+07.05.2020  15:15:53: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  15:15:53: ___ Create long_2by MANUALY position N: 1156369
+;
+07.05.2020  15:15:53: ___ long_2 by MANUALY Enter price = 74244; Stop = 74194; ; Take = 74324;
+07.05.2020  15:18:01: ___ Delete position from active dictionary position: long_1;
+07.05.2020  15:18:01: ___ Delete position from active dictionary position: long_2;
+07.05.2020  15:18:01: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  15:18:01: ___ Create short_1by MANUALY position N: 1119339
+;
+07.05.2020  15:18:01: ___ short_1 by MANUALY Enter price = 74227; Stop = 74277; ; Take = 73877;
+07.05.2020  15:29:48: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  15:29:48: ___ Create short_2by MANUALY position N: 1180889
+;
+07.05.2020  15:29:48: ___ short_2 by MANUALY Enter price = 74169; Stop = 74219; ; Take = 74049;
+07.05.2020  15:30:24: ___ Delete position from active dictionary position: short_1;
+07.05.2020  15:30:24: ___ Delete position from active dictionary position: short_2;
+07.05.2020  15:30:24: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  15:30:24: ___ Create long_1by MANUALY position N: 1158509
+;
+07.05.2020  15:30:24: ___ long_1 by MANUALY Enter price = 74189; Stop = 74139; ; Take = 74539;
+07.05.2020  15:45:01: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  15:45:01: ___ Create long_2by MANUALY position N: 1147999
+;
+07.05.2020  15:45:01: ___ long_2 by MANUALY Enter price = 74239; Stop = 74189; ; Take = 74319;
+07.05.2020  15:45:33: ___ Delete position from active dictionary position: long_1;
+07.05.2020  15:45:33: ___ Delete position from active dictionary position: long_2;
+07.05.2020  15:45:33: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  15:45:33: ___ Create short_1by MANUALY position N: 1135039
+;
+07.05.2020  15:45:33: ___ short_1 by MANUALY Enter price = 74224; Stop = 74274; ; Take = 73874;
+07.05.2020  15:51:00: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  15:51:01: ___ Create short_2by MANUALY position N: 1189609
+;
+07.05.2020  15:51:01: ___ short_2 by MANUALY Enter price = 74248; Stop = 74298; ; Take = 74198;
+07.05.2020  15:51:37: ___ Delete position from active dictionary position: short_1;
+07.05.2020  15:51:37: ___ Delete position from active dictionary position: short_2;
+07.05.2020  15:57:36: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  15:57:36: ___ Create long_1by MANUALY position N: 1182299
+;
+07.05.2020  15:57:36: ___ long_1 by MANUALY Enter price = 74274; Stop = 74224; ; Take = 74624;
+07.05.2020  16:00:18: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  16:00:18: ___ Create long_2by MANUALY position N: 1174669
+;
+07.05.2020  16:00:18: ___ long_2 by MANUALY Enter price = 74228; Stop = 74178; ; Take = 74278;
+07.05.2020  16:00:44: ___ Delete position from active dictionary position: long_1;
+07.05.2020  16:00:44: ___ Delete position from active dictionary position: long_2;
+07.05.2020  16:00:44: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  16:00:44: ___ Create short_1by MANUALY position N: 1117419
+;
+07.05.2020  16:00:44: ___ short_1 by MANUALY Enter price = 74229; Stop = 74279; ; Take = 73879;
+07.05.2020  16:02:09: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  16:02:09: ___ Create short_2by MANUALY position N: 1185909
+;
+07.05.2020  16:02:09: ___ short_2 by MANUALY Enter price = 74270; Stop = 74320; ; Take = 74220;
+07.05.2020  16:03:49: ___ Delete position from active dictionary position: short_1;
+07.05.2020  16:03:49: ___ Delete position from active dictionary position: short_2;
+07.05.2020  16:03:51: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  16:03:51: ___ Create long_1by MANUALY position N: 1171059
+;
+07.05.2020  16:03:51: ___ long_1 by MANUALY Enter price = 74284; Stop = 74234; ; Take = 74634;
+07.05.2020  16:28:55: ___ Delete position from active dictionary position: long_1;
+07.05.2020  16:30:19: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  16:30:19: ___ Create long_2by MANUALY position N: 1151359
+;
+07.05.2020  16:30:19: ___ long_2 by MANUALY Enter price = 74510; Stop = 74460; ; Take = 74630;
+07.05.2020  16:36:08: ___ Delete position from active dictionary position: long_2;
+07.05.2020  16:36:08: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  16:36:08: ___ Create short_1by MANUALY position N: 1130409
+;
+07.05.2020  16:36:08: ___ short_1 by MANUALY Enter price = 74465; Stop = 74515; ; Take = 74115;
+07.05.2020  16:37:33: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  16:37:33: ___ Create short_2by MANUALY position N: 1101499
+;
+07.05.2020  16:37:33: ___ short_2 by MANUALY Enter price = 74523; Stop = 74573; ; Take = 74443;
+07.05.2020  16:43:07: ___ Delete position from active dictionary position: short_2;
+07.05.2020  16:50:00: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  16:50:00: ___ Create short_2by MANUALY position N: 1109149
+;
+07.05.2020  16:50:00: ___ short_2 by MANUALY Enter price = 74472; Stop = 74522; ; Take = 74392;
+07.05.2020  16:53:21: ___ Delete position from active dictionary position: short_2;
+07.05.2020  17:00:34: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  17:00:34: ___ Create short_2by MANUALY position N: 1136449
+;
+07.05.2020  17:00:34: ___ short_2 by MANUALY Enter price = 74397; Stop = 74447; ; Take = 74317;
+07.05.2020  17:01:45: ___ Delete position from active dictionary position: short_1;
+07.05.2020  17:01:45: ___ Delete position from active dictionary position: short_2;
+07.05.2020  17:01:45: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  17:01:45: ___ Create long_1by MANUALY position N: 1114739
+;
+07.05.2020  17:01:45: ___ long_1 by MANUALY Enter price = 74415; Stop = 74365; ; Take = 74765;
+07.05.2020  17:09:55: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  17:09:55: ___ Create long_2by MANUALY position N: 1116599
+;
+07.05.2020  17:09:55: ___ long_2 by MANUALY Enter price = 74372; Stop = 74322; ; Take = 74452;
+07.05.2020  17:12:14: ___ Delete position from active dictionary position: long_2;
+07.05.2020  17:28:31: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  17:28:31: ___ Create long_2by MANUALY position N: 1198869
+;
+07.05.2020  17:28:31: ___ long_2 by MANUALY Enter price = 74486; Stop = 74436; ; Take = 74536;
+07.05.2020  17:29:00: ___ Delete position from active dictionary position: long_1;
+07.05.2020  17:29:00: ___ Delete position from active dictionary position: long_2;
+07.05.2020  17:29:00: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  17:29:00: ___ Create short_1by MANUALY position N: 1144579
+;
+07.05.2020  17:29:00: ___ short_1 by MANUALY Enter price = 74459; Stop = 74509; ; Take = 74109;
+07.05.2020  17:47:44: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  17:47:44: ___ Create short_2by MANUALY position N: 1111909
+;
+07.05.2020  17:47:44: ___ short_2 by MANUALY Enter price = 74425; Stop = 74475; ; Take = 74345;
+07.05.2020  17:48:29: ___ Delete position from active dictionary position: short_1;
+07.05.2020  17:48:29: ___ Delete position from active dictionary position: short_2;
+07.05.2020  17:48:29: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  17:48:29: ___ Create long_1by MANUALY position N: 1100469
+;
+07.05.2020  17:48:29: ___ long_1 by MANUALY Enter price = 74451; Stop = 74401; ; Take = 74801;
+07.05.2020  18:01:23: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  18:01:23: ___ Create long_2by MANUALY position N: 1100899
+;
+07.05.2020  18:01:23: ___ long_2 by MANUALY Enter price = 74455; Stop = 74405; ; Take = 74535;
+07.05.2020  18:02:49: ___ Delete position from active dictionary position: long_1;
+07.05.2020  18:02:50: ___ Delete position from active dictionary position: long_2;
+07.05.2020  18:02:50: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  18:02:50: ___ Create short_1by MANUALY position N: 1137799
+;
+07.05.2020  18:02:50: ___ short_1 by MANUALY Enter price = 74415; Stop = 74465; ; Take = 74065;
+07.05.2020  18:15:34: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  18:15:34: ___ Create short_2by MANUALY position N: 1153179
+;
+07.05.2020  18:15:34: ___ short_2 by MANUALY Enter price = 74359; Stop = 74409; ; Take = 74309;
+07.05.2020  18:17:07: ___ Delete position from active dictionary position: short_2;
+07.05.2020  18:21:13: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  18:21:13: ___ Create short_2by MANUALY position N: 1157129
+;
+07.05.2020  18:21:13: ___ short_2 by MANUALY Enter price = 74303; Stop = 74353; ; Take = 74183;
+07.05.2020  18:35:35: ___ Delete position from active dictionary position: short_2;
+07.05.2020  19:05:05: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  19:05:05: ___ Create short_2by MANUALY position N: 1160189
+;
+07.05.2020  19:05:05: ___ short_2 by MANUALY Enter price = 74212; Stop = 74262; ; Take = 74132;
+07.05.2020  19:26:28: ___ Delete position from active dictionary position: short_1;
+07.05.2020  19:26:28: ___ Delete position from active dictionary position: short_2;
+07.05.2020  19:26:28: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  19:26:28: ___ Create long_1by MANUALY position N: 1160729
+;
+07.05.2020  19:26:28: ___ long_1 by MANUALY Enter price = 74211; Stop = 74161; ; Take = 74561;
+07.05.2020  19:27:41: ___ Delete position from active dictionary position: long_1;
+07.05.2020  19:27:41: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  19:27:41: ___ Create long_1by MANUALY position N: 1116629
+;
+07.05.2020  19:27:41: ___ long_1 by MANUALY Enter price = 74269; Stop = 74219; ; Take = 74619;
+07.05.2020  19:27:51: ___ Robot stoped!;
+07.05.2020  19:28:05: ___ Writer activated;
+07.05.2020  19:28:08: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  19:28:08: ___ Create long_1by MANUALY position N: 1100129
+;
+07.05.2020  19:28:08: ___ long_1 by MANUALY Enter price = 74263; Stop = 74213; ; Take = 74613;
+07.05.2020  19:29:59: ___ Writer activated;
+07.05.2020  19:31:15: ___ Robot stoped!;
+07.05.2020  19:33:48: ___ Writer activated;
+07.05.2020  19:37:11: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  19:37:11: ___ Create short_1by MANUALY position N: 1100129
+;
+07.05.2020  19:37:11: ___ short_1 by MANUALY Enter price = 74235; Stop = 74285; ; Take = 73885;
+07.05.2020  19:40:04: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  19:40:04: ___ Create short_2by MANUALY position N: 1156369
+;
+07.05.2020  19:40:04: ___ short_2 by MANUALY Enter price = 74265; Stop = 74315; ; Take = 74185;
+07.05.2020  19:42:23: ___ Writer activated;
+07.05.2020  19:42:26: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  19:42:26: ___ Create short_1by MANUALY position N: 1100129
+;
+07.05.2020  19:42:26: ___ short_1 by MANUALY Enter price = 74200; Stop = 74250; ; Take = 73850;
+07.05.2020  19:47:18: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  19:47:18: ___ Create short_2by MANUALY position N: 1156369
+;
+07.05.2020  19:47:18: ___ short_2 by MANUALY Enter price = 74239; Stop = 74289; ; Take = 74159;
+07.05.2020  19:54:35: ___ Delete position from active dictionary position: short_1;
+07.05.2020  19:54:35: ___ Delete position from active dictionary position: short_2;
+07.05.2020  19:54:35: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  19:54:35: ___ Create long_1by MANUALY position N: 1119339
+;
+07.05.2020  19:54:35: ___ long_1 by MANUALY Enter price = 74282; Stop = 74232; ; Take = 74632;
+07.05.2020  19:59:32: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  19:59:32: ___ Create long_2by MANUALY position N: 1180889
+;
+07.05.2020  19:59:32: ___ long_2 by MANUALY Enter price = 74250; Stop = 74200; ; Take = 74330;
+07.05.2020  20:04:34: ___ Delete position from active dictionary position: long_2;
+07.05.2020  20:04:58: ___ Robot stoped!;
+07.05.2020  20:05:12: ___ Writer activated;
+07.05.2020  20:05:53: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:05:53: ___ Create long_1by MANUALY position N: 1100129
+;
+07.05.2020  20:05:53: ___ long_1 by MANUALY Enter price = 74303; Stop = 74253; ; Take = 74653;
+07.05.2020  20:12:05: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:12:05: ___ Create long_2by MANUALY position N: 1156369
+;
+07.05.2020  20:12:05: ___ long_2 by MANUALY Enter price = 74295; Stop = 74245; ; Take = 74345;
+07.05.2020  20:13:48: ___ Delete position from active dictionary position: long_1;
+07.05.2020  20:13:48: ___ Delete position from active dictionary position: long_2;
+07.05.2020  20:14:11: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:14:11: ___ Create short_1by MANUALY position N: 1119339
+;
+07.05.2020  20:14:11: ___ short_1 by MANUALY Enter price = 74273; Stop = 74323; ; Take = 73923;
+07.05.2020  20:20:00: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:20:00: ___ Create short_2by MANUALY position N: 1180889
+;
+07.05.2020  20:20:00: ___ short_2 by MANUALY Enter price = 74293; Stop = 74343; ; Take = 74213;
+07.05.2020  20:21:59: ___ Delete position from active dictionary position: short_1;
+07.05.2020  20:21:59: ___ Delete position from active dictionary position: short_2;
+07.05.2020  20:21:59: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:21:59: ___ Create long_1by MANUALY position N: 1158509
+;
+07.05.2020  20:21:59: ___ long_1 by MANUALY Enter price = 74309; Stop = 74259; ; Take = 74659;
+07.05.2020  20:22:06: ___ Robot stoped!;
+07.05.2020  20:22:21: ___ Writer activated;
+07.05.2020  20:22:24: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:22:24: ___ Create long_1by MANUALY position N: 1100129
+;
+07.05.2020  20:22:24: ___ long_1 by MANUALY Enter price = 74322; Stop = 74272; ; Take = 74672;
+07.05.2020  20:23:16: ___ Robot stoped!;
+07.05.2020  20:23:26: ___ Writer activated;
+07.05.2020  20:23:29: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:23:29: ___ Create long_1by MANUALY position N: 1100129
+;
+07.05.2020  20:23:29: ___ long_1 by MANUALY Enter price = 74307; Stop = 74257; ; Take = 74657;
+07.05.2020  20:35:01: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:35:01: ___ Create long_2by MANUALY position N: 1156369
+;
+07.05.2020  20:35:01: ___ long_2 by MANUALY Enter price = 74323; Stop = 74273; ; Take = 74373;
+07.05.2020  20:35:12: ___ Delete position from active dictionary position: long_1;
+07.05.2020  20:35:12: ___ Delete position from active dictionary position: long_2;
+07.05.2020  20:35:12: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:35:12: ___ Create short_1by MANUALY position N: 1119339
+;
+07.05.2020  20:35:12: ___ short_1 by MANUALY Enter price = 74304; Stop = 74354; ; Take = 73954;
+07.05.2020  20:40:48: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:40:48: ___ Create short_2by MANUALY position N: 1180889
+;
+07.05.2020  20:40:48: ___ short_2 by MANUALY Enter price = 74312; Stop = 74362; ; Take = 74232;
+07.05.2020  20:43:07: ___ Delete position from active dictionary position: short_1;
+07.05.2020  20:43:07: ___ Delete position from active dictionary position: short_2;
+07.05.2020  20:43:07: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:43:07: ___ Create long_1by MANUALY position N: 1158509
+;
+07.05.2020  20:43:07: ___ long_1 by MANUALY Enter price = 74341; Stop = 74291; ; Take = 74691;
+07.05.2020  20:48:19: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:48:19: ___ Create long_2by MANUALY position N: 1147999
+;
+07.05.2020  20:48:19: ___ long_2 by MANUALY Enter price = 74305; Stop = 74255; ; Take = 74385;
+07.05.2020  20:53:14: ___ Delete position from active dictionary position: long_2;
+07.05.2020  20:54:50: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:54:50: ___ Create long_2by MANUALY position N: 1135039
+;
+07.05.2020  20:54:50: ___ long_2 by MANUALY Enter price = 74315; Stop = 74265; ; Take = 74365;
+07.05.2020  20:59:48: ___ Delete position from active dictionary position: long_1;
+07.05.2020  20:59:48: ___ Delete position from active dictionary position: long_2;
+07.05.2020  20:59:48: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  20:59:48: ___ Create short_1by MANUALY position N: 1189609
+;
+07.05.2020  20:59:48: ___ short_1 by MANUALY Enter price = 74304; Stop = 74354; ; Take = 73954;
+07.05.2020  21:03:02: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  21:03:02: ___ Create short_2by MANUALY position N: 1182299
+;
+07.05.2020  21:03:02: ___ short_2 by MANUALY Enter price = 74325; Stop = 74375; ; Take = 74245;
+07.05.2020  21:09:11: ___ Delete position from active dictionary position: short_1;
+07.05.2020  21:09:11: ___ Delete position from active dictionary position: short_2;
+07.05.2020  21:09:11: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  21:09:11: ___ Create long_1by MANUALY position N: 1174669
+;
+07.05.2020  21:09:11: ___ long_1 by MANUALY Enter price = 74341; Stop = 74291; ; Take = 74691;
+07.05.2020  21:11:04: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  21:11:04: ___ Create long_2by MANUALY position N: 1117419
+;
+07.05.2020  21:11:05: ___ long_2 by MANUALY Enter price = 74316; Stop = 74266; ; Take = 74366;
+07.05.2020  21:13:42: ___ Delete position from active dictionary position: long_1;
+07.05.2020  21:13:42: ___ Delete position from active dictionary position: long_2;
+07.05.2020  21:13:42: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  21:13:42: ___ Create short_1by MANUALY position N: 1185909
+;
+07.05.2020  21:13:42: ___ short_1 by MANUALY Enter price = 74307; Stop = 74357; ; Take = 73957;
+07.05.2020  21:20:04: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  21:20:04: ___ Create short_2by MANUALY position N: 1171059
+;
+07.05.2020  21:20:04: ___ short_2 by MANUALY Enter price = 74320; Stop = 74370; ; Take = 74270;
+07.05.2020  21:20:36: ___ Delete position from active dictionary position: short_1;
+07.05.2020  21:20:36: ___ Delete position from active dictionary position: short_2;
+07.05.2020  21:20:36: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  21:20:36: ___ Create long_1by MANUALY position N: 1151359
+;
+07.05.2020  21:20:36: ___ long_1 by MANUALY Enter price = 74338; Stop = 74288; ; Take = 74688;
+07.05.2020  21:31:03: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  21:31:03: ___ Create long_2by MANUALY position N: 1130409
+;
+07.05.2020  21:31:03: ___ long_2 by MANUALY Enter price = 74431; Stop = 74381; ; Take = 74511;
+07.05.2020  21:38:56: ___ Delete position from active dictionary position: long_2;
+07.05.2020  21:59:01: ___ Delete position from active dictionary position: long_1;
+07.05.2020  21:59:01: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  21:59:01: ___ Create short_1by MANUALY position N: 1101499
+;
+07.05.2020  21:59:01: ___ short_1 by MANUALY Enter price = 74486; Stop = 74536; ; Take = 74136;
+07.05.2020  22:00:00: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  22:00:00: ___ Create short_2by MANUALY position N: 1109149
+;
+07.05.2020  22:00:00: ___ short_2 by MANUALY Enter price = 74500; Stop = 74550; ; Take = 74450;
+07.05.2020  22:00:38: ___ Delete position from active dictionary position: short_1;
+07.05.2020  22:00:38: ___ Delete position from active dictionary position: short_2;
+07.05.2020  22:00:38: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  22:00:38: ___ Create long_1by MANUALY position N: 1136449
+;
+07.05.2020  22:00:38: ___ long_1 by MANUALY Enter price = 74523; Stop = 74473; ; Take = 74873;
+07.05.2020  22:11:56: ___ Delete position from active dictionary position: long_1;
+07.05.2020  22:11:56: ___ short_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  22:11:56: ___ Create short_1by MANUALY position N: 1114739
+;
+07.05.2020  22:11:56: ___ short_1 by MANUALY Enter price = 74505; Stop = 74555; ; Take = 74155;
+07.05.2020  22:14:13: ___ short_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  22:14:13: ___ Create short_2by MANUALY position N: 1116599
+;
+07.05.2020  22:14:13: ___ short_2 by MANUALY Enter price = 74534; Stop = 74584; ; Take = 74484;
+07.05.2020  22:15:32: ___ Delete position from active dictionary position: short_1;
+07.05.2020  22:15:32: ___ Delete position from active dictionary position: short_2;
+07.05.2020  22:15:32: ___ long_1 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  22:15:32: ___ Create long_1by MANUALY position N: 1198869
+;
+07.05.2020  22:15:32: ___ long_1 by MANUALY Enter price = 74559; Stop = 74509; ; Take = 74909;
+07.05.2020  22:25:01: ___ long_2 by MANUALY position not in active dictionary. Set it.;
+07.05.2020  22:25:01: ___ Create long_2by MANUALY position N: 1144579
+;
+07.05.2020  22:25:01: ___ long_2 by MANUALY Enter price = 74584; Stop = 74534; ; Take = 74664;
+07.05.2020  22:26:14: ___ Delete position from active dictionary position: long_2;
+07.05.2020  22:26:24: ___ Robot stoped!;
